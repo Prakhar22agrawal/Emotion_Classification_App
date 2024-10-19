@@ -1,0 +1,3 @@
+"""This is the text based emotion detection web application by using the help of Machine Learning and NLP. If you are looking for Machine learning project then this is the grest project. """
+When to take the code and bring it to your compiler you need to download the many python and machine learning libraries like NumPy, Seaborn, Matplotlib, Scikit learn, and many more. When you run the code it will automatically tell which library you should be install and how to install you can search on google.
+The main thing is to when you open this project to need to set the path of  Pkl file in the app.py in utills section. then you can easily run this code 
